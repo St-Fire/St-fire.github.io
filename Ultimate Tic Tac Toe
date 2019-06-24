@@ -897,12 +897,3 @@ window.addEventListener( "load", start, false );
 </html>
 
 
-$ git add Ultimate Tic Tac Toe.html
-
-$ git commit -m "add index"
-
- 
- $ git remote add origin https://github.com/St-fire/St-fire.github.io.git
-
-$ git push -u origin master
-
